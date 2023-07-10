@@ -1,2 +1,2 @@
 #!/bin/bassh
-ls -lt | head /etc/passwd
+head /etc/passwd
